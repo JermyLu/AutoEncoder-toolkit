@@ -1,3 +1,2 @@
 # AutoEncoder-toolkit
-一个简单的AE-toolkit
-基于Pytorch深度学习框架实现了最简单的单隐藏层的AE、多隐藏层的AE、基于卷积层的AE和基于Transformer的AE。
+一个简单的AE-toolkit，基于Pytorch深度学习框架实现了最简单的单隐藏层的AE、多隐藏层的AE、基于卷积层的AE和基于Transformer的AE。
